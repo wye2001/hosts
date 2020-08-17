@@ -2,6 +2,7 @@ i.ytimg.com
 imtwjwoasak.com
 go.bidsimulator.com
 hrzn-nxt.com
+.hrzn-nxt.com
 ads-a-darwin.hulu.com
 ads-e-darwin.hulu.com
 ads-v-darwin.hulu.com
