@@ -1,0 +1,7 @@
+i.ytimg.com
+imtwjwoasak.com
+go.bidsimulator.com
+(\.|^)hrzn-nxt\.com$
+ads-.*-darwin.hulu.com
+ads-.*-darwin.hulustream.com
+ads-.*-darwin.hulu.com.c.footprint.net
